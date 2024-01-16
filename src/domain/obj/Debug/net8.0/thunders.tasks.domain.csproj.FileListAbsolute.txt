@@ -1,0 +1,12 @@
+C:\Projetos\thunders\src\domain\obj\Debug\net8.0\thunders.tasks.domain.csproj.AssemblyReference.cache
+C:\Projetos\thunders\src\domain\obj\Debug\net8.0\thunders.tasks.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\thunders\src\domain\obj\Debug\net8.0\thunders.tasks.domain.AssemblyInfoInputs.cache
+C:\Projetos\thunders\src\domain\obj\Debug\net8.0\thunders.tasks.domain.AssemblyInfo.cs
+C:\Projetos\thunders\src\domain\obj\Debug\net8.0\thunders.tasks.domain.csproj.CoreCompileInputs.cache
+C:\Projetos\thunders\src\domain\bin\Debug\net8.0\thunders.tasks.domain.deps.json
+C:\Projetos\thunders\src\domain\bin\Debug\net8.0\thunders.tasks.domain.dll
+C:\Projetos\thunders\src\domain\bin\Debug\net8.0\thunders.tasks.domain.pdb
+C:\Projetos\thunders\src\domain\obj\Debug\net8.0\thunders.tasks.domain.dll
+C:\Projetos\thunders\src\domain\obj\Debug\net8.0\refint\thunders.tasks.domain.dll
+C:\Projetos\thunders\src\domain\obj\Debug\net8.0\thunders.tasks.domain.pdb
+C:\Projetos\thunders\src\domain\obj\Debug\net8.0\ref\thunders.tasks.domain.dll

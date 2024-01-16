@@ -1,0 +1,15 @@
+C:\Projetos\thunders\src\application\obj\Debug\net8.0\thunders.tasks.application.csproj.AssemblyReference.cache
+C:\Projetos\thunders\src\application\obj\Debug\net8.0\thunders.tasks.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\thunders\src\application\obj\Debug\net8.0\thunders.tasks.application.AssemblyInfoInputs.cache
+C:\Projetos\thunders\src\application\obj\Debug\net8.0\thunders.tasks.application.AssemblyInfo.cs
+C:\Projetos\thunders\src\application\obj\Debug\net8.0\thunders.tasks.application.csproj.CoreCompileInputs.cache
+C:\Projetos\thunders\src\application\bin\Debug\net8.0\thunders.tasks.application.deps.json
+C:\Projetos\thunders\src\application\bin\Debug\net8.0\thunders.tasks.application.dll
+C:\Projetos\thunders\src\application\bin\Debug\net8.0\thunders.tasks.application.pdb
+C:\Projetos\thunders\src\application\bin\Debug\net8.0\thunders.tasks.domain.dll
+C:\Projetos\thunders\src\application\bin\Debug\net8.0\thunders.tasks.domain.pdb
+C:\Projetos\thunders\src\application\obj\Debug\net8.0\thunders.tasks.application.csproj.CopyComplete
+C:\Projetos\thunders\src\application\obj\Debug\net8.0\thunders.tasks.application.dll
+C:\Projetos\thunders\src\application\obj\Debug\net8.0\refint\thunders.tasks.application.dll
+C:\Projetos\thunders\src\application\obj\Debug\net8.0\thunders.tasks.application.pdb
+C:\Projetos\thunders\src\application\obj\Debug\net8.0\ref\thunders.tasks.application.dll

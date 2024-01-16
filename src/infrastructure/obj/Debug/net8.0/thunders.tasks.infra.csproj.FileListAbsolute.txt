@@ -1,0 +1,17 @@
+C:\Projetos\thunders\src\infrastructure\obj\Debug\net8.0\thunders.tasks.infra.csproj.AssemblyReference.cache
+C:\Projetos\thunders\src\infrastructure\obj\Debug\net8.0\thunders.tasks.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\thunders\src\infrastructure\obj\Debug\net8.0\thunders.tasks.infra.AssemblyInfoInputs.cache
+C:\Projetos\thunders\src\infrastructure\obj\Debug\net8.0\thunders.tasks.infra.AssemblyInfo.cs
+C:\Projetos\thunders\src\infrastructure\obj\Debug\net8.0\thunders.tasks.infra.csproj.CoreCompileInputs.cache
+C:\Projetos\thunders\src\infrastructure\bin\Debug\net8.0\thunders.tasks.infra.deps.json
+C:\Projetos\thunders\src\infrastructure\bin\Debug\net8.0\thunders.tasks.infra.runtimeconfig.json
+C:\Projetos\thunders\src\infrastructure\bin\Debug\net8.0\thunders.tasks.infra.dll
+C:\Projetos\thunders\src\infrastructure\bin\Debug\net8.0\thunders.tasks.infra.pdb
+C:\Projetos\thunders\src\infrastructure\bin\Debug\net8.0\thunders.tasks.domain.dll
+C:\Projetos\thunders\src\infrastructure\bin\Debug\net8.0\thunders.tasks.domain.pdb
+C:\Projetos\thunders\src\infrastructure\obj\Debug\net8.0\thunders.tasks.infra.csproj.CopyComplete
+C:\Projetos\thunders\src\infrastructure\obj\Debug\net8.0\thunders.tasks.infra.dll
+C:\Projetos\thunders\src\infrastructure\obj\Debug\net8.0\refint\thunders.tasks.infra.dll
+C:\Projetos\thunders\src\infrastructure\obj\Debug\net8.0\thunders.tasks.infra.pdb
+C:\Projetos\thunders\src\infrastructure\obj\Debug\net8.0\thunders.tasks.infra.genruntimeconfig.cache
+C:\Projetos\thunders\src\infrastructure\obj\Debug\net8.0\ref\thunders.tasks.infra.dll
