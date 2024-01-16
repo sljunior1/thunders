@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/thunders.tasks.app/FileContentIndex/00cb923a-2dd3-4209-8be7-4bbe70fd78be.vsidx
+*.vsidx
+*.v2
+/.gitignore
+*.json
+*.sqlite
+/.vs/thunders/v17
+/src/.vs
