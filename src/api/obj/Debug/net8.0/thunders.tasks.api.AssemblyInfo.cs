@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("thunders.tasks.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdc228a6948ad49b27378915460fb96d00597e2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6292ea13628fe34bf366256f2ff9731b344397a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("thunders.tasks.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("thunders.tasks.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

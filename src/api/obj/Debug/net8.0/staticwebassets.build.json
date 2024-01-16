@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zjHI9siYYo0rI0PU8ILIuCer+WqtDIbC/gg7UqV1XvY=",
+  "Source": "thunders.tasks.api",
+  "BasePath": "_content/thunders.tasks.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
