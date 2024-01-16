@@ -41,12 +41,21 @@ namespace thunders.tasks.infra.Repositories
         }
         public void ExcluirTarefa(Guid id)
         {
-            var entidade = dbSet.Find(id);
-            dbSet.Remove(entidade);
+            try
+            {
+                var entidade = dbSet.Find(id);
+
+                if (entidade != null)
+                    dbSet.Remove(entidade);
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
         public int SaveChanges()
         {
-           return _dbContext.SaveChanges();
+            return _dbContext.SaveChanges();
         }
         public void AtualizarTarefa(Tarefa obj)
         {
